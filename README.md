@@ -1,7 +1,7 @@
 # Affordance-Learning-Papers
 
 ### Affordance Learning
-- ###### [2024 CoRL](https://openreview.net/pdf?id=an953WOpo2) UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.
+- ###### [2024 CoRL] [UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.](https://openreview.net/pdf?id=an953WOpo2) 
 - ###### [2024 CVPR] One-Shot Open Affordance Learning with Foundation Models
 - ###### [2024 CVPR] SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes
 - ###### [2024 CVPR] LASO: Language-guided Affordance Segmentation on 3D Object
