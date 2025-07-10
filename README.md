@@ -1,6 +1,7 @@
 # Affordance-Learning-Papers
 
 ### Affordance Learning
+- ###### [2025 ICLR] [3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.](https://openreview.net/pdf?id=GThTiuXgDC) 
 - ###### [2024 CoRL] [UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.](https://openreview.net/pdf?id=an953WOpo2) 
 - ###### [2024 CVPR] [One-Shot Open Affordance Learning with Foundation Models.](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_One-Shot_Open_Affordance_Learning_with_Foundation_Models_CVPR_2024_paper.pdf)
 - ###### [2024 CVPR] [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes.](https://openaccess.thecvf.com/content/CVPR2024/papers/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.pdf)
