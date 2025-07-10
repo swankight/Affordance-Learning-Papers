@@ -1,12 +1,15 @@
 # Affordance-Learning-Papers
 
 ### Affordance Learning
-- ###### [2025 ICLR] [3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.](https://openreview.net/pdf?id=GThTiuXgDC) 
+- ###### [2025 ICLR] [3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.](https://openreview.net/pdf?id=GThTiuXgDC)
+- ###### [2025 CVPR] [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions.](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Grounding_3D_Object_Affordance_with_Language_Instructions_Visual_Observations_and_CVPR_2025_paper.pdf)
+- ###### [2025 CVPR] [SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model.](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SeqAfford_Sequential_3D_Affordance_Reasoning_via_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf)
 - ###### [2024 CoRL] [UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.](https://openreview.net/pdf?id=an953WOpo2) 
 - ###### [2024 CVPR] [One-Shot Open Affordance Learning with Foundation Models.](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_One-Shot_Open_Affordance_Learning_with_Foundation_Models_CVPR_2024_paper.pdf)
 - ###### [2024 CVPR] [SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes.](https://openaccess.thecvf.com/content/CVPR2024/papers/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.pdf)
 - ###### [2024 CVPR] [LASO: Language-guided Affordance Segmentation on 3D Object.](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf)
 - ###### [2024 CVPR] [AffordanceLLM: Grounding Affordance from Vision Language Models.](https://openaccess.thecvf.com/content/CVPR2024W/OpenSUN3D/papers/Qian_AffordanceLLM_Grounding_Affordance_from_Vision_Language_Models_CVPRW_2024_paper.pdf)
+- ###### [2023 ICCV] [ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding.](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_ViewRefer_Grasp_the_Multi-view_Knowledge_for_3D_Visual_Grounding_ICCV_2023_paper.pdf)
 - ###### [2023 ICCV] [Understanding 3D Object Interaction from a Single Image.](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_Understanding_3D_Object_Interaction_from_a_Single_Image_ICCV_2023_paper.pdf)
 - ###### [2023 ICCV] [Multi-label affordance mapping from egocentric vision.](https://openaccess.thecvf.com/content/ICCV2023/papers/Mur-Labadia_Multi-label_Affordance_Mapping_from_Egocentric_Vision_ICCV_2023_paper.pdf)
 - ###### [2023 ICCV] [Grounding 3D Object Affordance from 2D Interactions in Images.](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Grounding_3D_Object_Affordance_from_2D_Interactions_in_Images_ICCV_2023_paper.pdf)
@@ -16,6 +19,14 @@
 - ###### [2023 CVPR] [Leverage Interactive Affinity for Affordance Learning.](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Leverage_Interactive_Affinity_for_Affordance_Learning_CVPR_2023_paper.pdf)
 - ###### [2022 CVPR] [Learning affordance grounding from exocentric images.](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Affordance_Grounding_From_Exocentric_Images_CVPR_2022_paper.pdf)
 - ###### [2021 IJCAI] [One-shot affordance detection.](https://www.ijcai.org/proceedings/2021/0124.pdf)
+
+### Affordance + Foundation model 
+- ###### [2025 ICLR] [3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds.](https://openreview.net/pdf?id=GThTiuXgDC)
+- ###### [2025 CVPR] [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions.](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Grounding_3D_Object_Affordance_with_Language_Instructions_Visual_Observations_and_CVPR_2025_paper.pdf)
+- ###### [2025 CVPR] [SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model.](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SeqAfford_Sequential_3D_Affordance_Reasoning_via_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf)
+- ###### [2024 CoRL] [UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation.](https://openreview.net/pdf?id=an953WOpo2) 
+- ###### [2024 CVPR] [One-Shot Open Affordance Learning with Foundation Models.](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_One-Shot_Open_Affordance_Learning_with_Foundation_Models_CVPR_2024_paper.pdf)
+- ###### [2023 ICCV] [ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding.](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_ViewRefer_Grasp_the_Multi-view_Knowledge_for_3D_Visual_Grounding_ICCV_2023_paper.pdf)
 
 ### Affordance + Articulated object 
 - ###### [2023 NIPS] [Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects.](https://papers.neurips.cc/paper_files/paper/2023/file/0e7e2af2e5ba822c9ad35a37b31b5dd4-Paper-Conference.pdf)
@@ -91,3 +102,8 @@
 - ###### [2021 ICLR]  [Pseudoseg: Designing pseudo labels for semantic segmentation.](https://openreview.net/pdf?id=-TwO99rbVRu)
 - ###### [2021 CVPR] [Semi-supervised semantic segmentation with directional context-aware consistency.](https://openaccess.thecvf.com/content/CVPR2021/papers/Lai_Semi-Supervised_Semantic_Segmentation_With_Directional_Context-Aware_Consistency_CVPR_2021_paper.pdf)
 - ###### [2016 CVPR] [Scribblesup: Scribble supervised convolutional networks for semantic segmentation.](https://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.pdf)
+
+### Unsupervised vision feature extraction
+- ###### [2024 TMLR] [DINOv2: Learning Robust Visual Features without Supervision.](https://openreview.net/pdf?id=a68SUt6zFt)
+-  
+
